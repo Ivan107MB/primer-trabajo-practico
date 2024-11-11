@@ -1,0 +1,7 @@
+/*La versión más reciente de Angular es Angular 18, lanzada en Mayo de 2024, trae consigo una serie de mejoras significativas en rendimiento, nuevas funcionalidades y correcciones de errores que optimizan el desarrollo de aplicaciones web. Las mejoras incluyen la integración de los compiladores Esbuild y Vite por defecto, optimizaciones en los Signals, y actualizaciones en el renderizado del lado del servidor y del cliente. se enfocó en optimizar aún más el rendimiento de las aplicaciones y en brindar un soporte más robusto para el desarrollo de aplicaciones a gran escala. Se introdujeron mejoras en la compilación y el empaquetado de las aplicaciones, reduciendo los tiempos de carga y mejorando la experiencia del usuario final.
+La seguridad también fue un aspecto clave en Angular 17, con mejoras sustanciales en las medidas de seguridad y protección de datos, asegurando que las aplicaciones sean más seguras frente a amenazas cibernéticas y en el entorno de Internet. Angular 16 mejoró significativamente el sistema de enrutamiento y la gestión del estado, haciendo que las aplicaciones sean más rápidas y eficientes.
+Otro aspecto importante de Angular 16 fue su enfoque en la accesibilidad y la experiencia del usuario. Se introdujeron mejoras en los controles de formularios y en la navegación. Angular 15
+• Actualización del CLI de Angular
+• Mejoras en el rendimiento
+• Nuevas herramientas de depuración
+• Actualización de dependencias*/  
